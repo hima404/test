@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|C:\\Users\\user\\Downloads\\Faculty\\Faculty\\faculty\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|solutionrelative:faculty\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|c:\\users\\user\\downloads\\faculty\\faculty\\faculty\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|solutionrelative:faculty\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|C:\\Users\\user\\Downloads\\Faculty\\Faculty\\faculty\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|solutionrelative:faculty\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|c:\\users\\user\\downloads\\faculty\\faculty\\faculty\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|c:\\users\\user\\downloads\\faculty\\faculty\\faculty\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|solutionrelative:faculty\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|C:\\Users\\user\\Downloads\\Faculty\\Faculty\\faculty\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05017FAA-DFB8-4603-B222-4463DD3B10C4}|Faculty\\Faculty.csproj|solutionrelative:faculty\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,11 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\Login.xaml",
+              "RelativeDocumentMoniker": "Faculty\\Login.xaml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\Login.xaml",
+              "RelativeToolTip": "Faculty\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T18:42:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SignUp.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\SignUp.xaml.cs",
               "RelativeDocumentMoniker": "Faculty\\SignUp.xaml.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "Faculty\\SignUp.xaml.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:53:43.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T14:53:43.64Z"
             },
             {
               "$type": "Document",
@@ -51,20 +66,20 @@
               "Title": "AdminPage.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml",
               "RelativeDocumentMoniker": "Faculty\\AdminPage.xaml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml*",
-              "RelativeToolTip": "Faculty\\AdminPage.xaml*",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml",
+              "RelativeToolTip": "Faculty\\AdminPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-15T13:19:30.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdminPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml.cs",
               "RelativeDocumentMoniker": "Faculty\\AdminPage.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml.cs*",
-              "RelativeToolTip": "Faculty\\AdminPage.xaml.cs*",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\AdminPage.xaml.cs",
+              "RelativeToolTip": "Faculty\\AdminPage.xaml.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T13:19:30.277Z",
@@ -72,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\Student.cs",
               "RelativeDocumentMoniker": "Faculty\\Student.cs",
@@ -84,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FacultyModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Faculty\\Faculty\\Faculty\\FacultyModel.edmx",
               "RelativeDocumentMoniker": "Faculty\\FacultyModel.edmx",

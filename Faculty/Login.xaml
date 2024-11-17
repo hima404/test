@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:Faculty"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Login" Background="White">
+      Title="Login" Background="Beige">
 
     <Border BorderBrush="#FFCCD2D7" Background="#FFCCD2D7" BorderThickness="3" Margin="230,46,213,50">
         <Grid>
